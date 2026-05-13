@@ -13,5 +13,9 @@ public class Driver {
         p1.PrintColor();
         p2.PrintColor();
 
+        Student s1 = new Student("Istiak_Ahamed",21,3.54,273);
+        s1.StudentInfo();
+
+
     }
 }

@@ -8,4 +8,11 @@ public class Car {
     double price = 491780656.00;//4 million dollar
     boolean isRunning = false;
 
+    void start() {
+        System.out.println("I start the engine");
+    }
+    void stop () {
+        System.out.println("i stop the engine");
+    }
+
 }

@@ -10,5 +10,7 @@ public class CarTest {
         System.out.println(c1.fuelType);
         System.out.println(c1.topSpeed);
         System.out.println(c1.isRunning);
+        c1.start();
+        c1.stop();
     }
 }

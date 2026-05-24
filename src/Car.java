@@ -22,5 +22,4 @@ public class Car {
     void brake () {
         System.out.println("i brake "+ make);
     }
-
 }

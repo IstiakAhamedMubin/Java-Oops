@@ -9,10 +9,18 @@ public class Car {
     boolean isRunning = false;
 
     void start() {
+        isRunning = true;
         System.out.println("I start the engine");
     }
     void stop () {
+        isRunning = false;
         System.out.println("i stop the engine");
+    }
+    void drive() {
+        System.out.println("i am driving "+model);
+    }
+    void brake () {
+        System.out.println("i brake "+ make);
     }
 
 }

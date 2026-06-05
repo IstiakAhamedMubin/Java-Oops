@@ -1,4 +1,4 @@
-# 📘 Java OOP Practice & Learning & Implementing
+# 📘 Java OOP Practicing & Learning & Implementing
 
 This repository contains my Java Object-Oriented Programming (OOP) practice codes, concepts, and problem-solving exercises.
 

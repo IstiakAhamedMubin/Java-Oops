@@ -8,6 +8,7 @@ public class MyThread extends Thread {
             firstNumber = secondNumber;
             secondNumber = sum;
             System.out.println(sum);
+
         }
     }
 

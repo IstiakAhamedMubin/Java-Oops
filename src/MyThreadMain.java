@@ -3,4 +3,5 @@ public class MyThreadMain {
         MyThread obj = new MyThread();
         obj.start();
     }
+
 }
